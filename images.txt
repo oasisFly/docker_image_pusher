@@ -3,6 +3,7 @@ redis:latest
 mysql:8.0
 postgres:15
 mariadb:10.3.31
+portainer-ce:latest
 #支持私库
 docker.getcollate.io/openmetadata/db:1.7.0
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
